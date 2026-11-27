@@ -8,7 +8,7 @@ An interactive Power BI portfolio project exploring transaction activity, paymen
 
 | File | Purpose | Download |
 | --- | --- | --- |
-| `PhonePe Dashboard Final.pbix` | Final interactive Power BI report | [Download dashboard](https://github.com/mehakgupta0406/phonepe-powerbi-analysis/raw/refs/heads/main/PhonePe%20Dashboard%20Final.pbix) |
+| `PhonePe Dashboard.pbix` | Final interactive Power BI report | [Download dashboard](https://github.com/mehakgupta0406/phonepe-powerbi-analysis/raw/refs/heads/main/PhonePe%20Dashboard.pbix) |
 | `Phonepe-Final-Dataset.xlsx` | Source workbook | [Download dataset](https://github.com/mehakgupta0406/phonepe-powerbi-analysis/raw/refs/heads/main/Phonepe-Final-Dataset.xlsx) |
 
 GitHub cannot run an interactive PBIX report or preview these large binary files. Use the download links above, then open the dashboard in **Microsoft Power BI Desktop**.
@@ -87,7 +87,7 @@ The final saved dashboard was reopened in Power BI Desktop and both insight card
 
 ## Report versions
 
-`PhonePe Dashboard Final.pbix` is the current report. The earlier `Phone pay Analysis.pbix` has been replaced to keep one clear dashboard entry point. Earlier committed versions remain available in Git history; the Excel dataset is retained.
+`PhonePe Dashboard.pbix` is the current report. The earlier `Phone pay Analysis.pbix` has been replaced to keep one clear dashboard entry point. Earlier committed versions remain available in Git history; the Excel dataset is retained.
 
 ## Data permission and attribution
 
